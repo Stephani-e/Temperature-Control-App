@@ -18,4 +18,4 @@ A simple React application that allows users to control and display the temperat
 
 ## 🖥️ Demo
 
-> Coming soon 
+> Coming soon
