@@ -24,6 +24,11 @@ A simple React application that allows users to control and display the temperat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-2. Open the project folder.
-3. Open index.html in your browser (or use a simple live server extension in VS Code).
+   git clone https://github.com/Stephani-e/Temperature-Control-App.git
+   cd Quiz-App
+2. Install Dependencies:
+   ```bash
+   npm install
+3. Start the development server
+   ```bash
+   npm start
