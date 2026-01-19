@@ -16,6 +16,5 @@ A simple React application that allows users to control and display the temperat
 - JavaScript (ES6+)
 - CSS (for basic styling and temperature color classes)
 
-## 🖥️ Demo
-
-> Coming soon
+## 🖥️ Demo 
+🔗 Live Demo: https://temperature-control-app-opal.vercel.app/
