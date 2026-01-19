@@ -2,6 +2,10 @@
 
 A simple React application that allows users to control and display the temperature dynamically. The app changes the background color based on whether the temperature is "hot" or "cold".
 
+## 🖥️ Demo 
+
+🔗 Live Demo: https://temperature-control-app-opal.vercel.app/
+
 ## 🔥 Features
 
 - Increase and decrease the temperature with buttons
@@ -16,5 +20,10 @@ A simple React application that allows users to control and display the temperat
 - JavaScript (ES6+)
 - CSS (for basic styling and temperature color classes)
 
-## 🖥️ Demo 
-🔗 Live Demo: https://temperature-control-app-opal.vercel.app/
+## Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/<your-repo>.git
+2. Open the project folder.
+3. Open index.html in your browser (or use a simple live server extension in VS Code).
