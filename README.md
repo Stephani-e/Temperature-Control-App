@@ -31,4 +31,4 @@ A simple React application that allows users to control and display the temperat
    npm install
 3. Start the development server
    ```bash
-   npm start
+   npm run dev
