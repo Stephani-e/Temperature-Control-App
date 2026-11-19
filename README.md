@@ -4,7 +4,7 @@ A simple React application that allows users to control and display the temperat
 
 ## Demo 
 
-🔗 Live Demo: https://temperature-control-app-opal.vercel.app/
+🔗 Live Demo: https://temperature-control-app-sga.vercel.app/
 
 ## Features
 
